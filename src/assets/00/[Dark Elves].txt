@@ -1,0 +1,10 @@
+Citizen 0 -> Hunter 1	-> Archer 2	-> Master Archer 3
+	-> Farmer 1	-> Warrior 2	-> Bodyguard 3
+					-> Warden 3
+	-> Blind 1	-> Medium 2	-> Oracle 3
+	-> Rogue 1	-> Ninja 2	-> Shadow Wlker 3
+			-> Pickpocet 2	-> Thief 3
+					-> Burglar 3
+	-> Runaway 1	-> Rebel 2	-> Adopt 3	-> Witch 4
+
+Master Oracle 4

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="sword_sprites.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.54715913"
+     inkscape:cx="519.95843"
+     inkscape:cy="398.42157"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="181.81792"
+       y1="146.75992"
+       x2="181.81792"
+       y2="99.854759"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.797688;fill:#000000;stroke-width:0.264999"
+       d="m 20.145445,15.244733 c 0,0 10.554046,6.840586 12.117609,23.648882 1.563563,16.808293 -5.667914,32.443917 -5.667914,32.443917 l 6.058804,-0.390891 c 0,0 8.990484,-14.267505 8.990484,-31.271246 0,-17.003741 -21.498983,-24.430662 -21.498983,-24.430662 z"
+       id="path2" />
+    <path
+       style="opacity:0.797688;fill:#000000;stroke-width:0.264999"
+       d="M 19.95,71.337532 42.817101,71.728422 52.589364,58.633588 36.758296,66.646846 33.826617,55.311019 26.98603,64.887837 9.9822909,58.438143 Z"
+       id="path3" />
+    <path
+       id="path8"
+       style="opacity:0.797688;fill:#f2f2f2;fill-opacity:1;stroke-width:0.264999"
+       d="M 176.42024 15.244548 C 176.42024 15.244548 186.97429 22.085471 188.53785 38.89375 C 189.27002 46.764666 188.07002 54.354798 186.59068 60.226298 L 183.26117 64.888029 L 166.25755 58.438293 L 176.2249 71.337764 L 199.09224 71.728438 L 208.86425 58.63363 L 193.03318 66.647095 L 192.38981 64.158358 C 194.9237 58.38481 197.91919 49.496907 197.91919 39.675614 C 197.91919 22.67189 176.42024 15.244548 176.42024 15.244548 z "
+       inkscape:export-filename="sword3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:0.797688;fill:none;fill-opacity:1;stroke-width:0.264999;stroke:none;stroke-opacity:1"
+       id="rect12"
+       width="47.007095"
+       height="61.429714"
+       x="163.99065"
+       y="12.820117" />
+    <path
+       id="path13"
+       style="opacity:0.797688;fill:#f2f2f2;fill-opacity:1;stroke-width:0.264999"
+       d="m 126.20826,15.244548 c 0,0 10.55405,6.84094 12.11761,23.649202 0.52149,5.60609 0.0552,11.057325 -0.78652,15.85898 h 7.999 c 1.24934,-4.494245 2.16886,-9.641094 2.16886,-15.077116 0,-17.003707 -21.49895,-24.431066 -21.49895,-24.431066 z"
+       inkscape:export-filename="sword2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:0.797688;fill:none;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-opacity:1"
+       id="rect14"
+       width="47.007095"
+       height="61.429714"
+       x="113.77852"
+       y="12.820117" />
+    <path
+       id="path15"
+       style="opacity:0.797688;fill:#f2f2f2;fill-opacity:1;stroke-width:0.264999"
+       d="m 76.797629,15.244548 c 0,0 7.75798,5.038194 10.95488,17.072859 h 9.09712 c -4.82053,-11.807954 -20.052,-17.072859 -20.052,-17.072859 z"
+       inkscape:export-filename="sword1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:0.797688;fill:none;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-opacity:1"
+       id="rect17"
+       width="47.007095"
+       height="61.429714"
+       x="64.634735"
+       y="12.820117" />
+    <rect
+       style="opacity:0.797688;fill:url(#linearGradient2);stroke-width:0.264999"
+       id="rect1"
+       width="53.674965"
+       height="45.93803"
+       x="154.73865"
+       y="101.06367"
+       inkscape:export-filename="swordMask.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

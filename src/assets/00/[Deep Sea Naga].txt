@@ -1,0 +1,5 @@
+Child 0	-> Brawler 1	-> Crusher 2	-> Destroyer 3
+	-> Fighter 1	-> Warrior 2	-> Hero 3
+					-> Leader 3	-> Cheaf 4
+
+Swimmer 1 -> Diver 2 	-> Death beneath 3
