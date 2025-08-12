@@ -15,6 +15,7 @@ import locationScenes from "../../gameobjects/location/location.scenes";
 import holyBibleScenes from "../../weapons/holyBible/holyBible.scenes";
 import gameOverScreenScenes from "../../ui/gameOverScreen/gameOverScreen.scenes";
 import lightningScenes from "../../weapons/lightning/lightning.scenes";
+import { Scenes } from "../../ui/sceneType";
 
 type SceneParams = {
   usesWorld: boolean;
@@ -38,7 +39,7 @@ export function getScenePickerPane(env: Environment): void {
     ...holyBibleScenes,
     ...gameOverScreenScenes,
     ...lightningScenes,
-  };
+  } satisfies Scenes;
 
   const params = {
     options: Object.keys(scenes).map((name) => ({ text: name, value: name })),

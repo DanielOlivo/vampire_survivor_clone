@@ -1,12 +1,8 @@
 import RAPIER from "@dimforge/rapier2d-compat";
-import { Environment, makeEnv } from "./utils/environment";
+import { makeEnv } from "./utils/environment";
 import { getWorld } from "./rapier/worldWrapper";
 import { getPixiApp } from "./pixi/app";
-import { defaultScene } from "./defaultScene";
 // import { getScenePickerPane } from "./utils/scene/scenePicker";
-import { Property } from "./core/property";
-import { getStartScreen } from "./ui/startScreen/startScreen";
-import { getScenePickerPane } from "./utils/scene/scenePicker";
 import { sceneController } from "./sceneController";
 // import { getPaneContainer } from "./ui/paneContainer";
 // import shapeScenes from "./graphics/shape/shape.scenes";

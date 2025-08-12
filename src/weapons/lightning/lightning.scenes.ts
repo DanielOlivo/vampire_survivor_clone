@@ -1,6 +1,7 @@
 import { defaultEnemyConfigs } from "../../gameobjects/enemy/defaultEnemyTypes";
 import { defaultSchedule } from "../../gameobjects/enemy/defaultSchedule";
 import { getEnemyManager } from "../../gameobjects/enemy/enemyManager";
+import { Scenes } from "../../ui/sceneType";
 import { Environment } from "../../utils/environment";
 import { cns, Level } from "../../utils/logger/cns";
 import { getStaticTarget } from "../../utils/target/staticTarget";
@@ -43,5 +44,10 @@ export default {
     };
     env.routines.connect(routine);
     weapon.run();
+
+    return {
+      usesWorld: true,
+      pane: undefined,
+    };
   },
-};
+} satisfies Scenes;
