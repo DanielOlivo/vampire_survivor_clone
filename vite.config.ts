@@ -12,4 +12,8 @@ export default defineConfig({
     port: 8080,
     open: true,
   },
+  base: "/vampire_survivor_clone/",
+  build: {
+    outDir: "dist",
+  },
 });
